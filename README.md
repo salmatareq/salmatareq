@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Salma Tarek</h1>
-<h3 align="center">A passionate backend developer from Egypt</h3>
+<h3 align="center">A passionate frontend developer from Egypt</h3>
 
 - How to reach me **salmatarekamer@gmail.com**
 
